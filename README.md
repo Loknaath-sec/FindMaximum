@@ -55,6 +55,8 @@ def max_marks(list1):
 ![image](https://github.com/Loknaath-sec/FindMaximum/assets/145742558/671b8d4b-0f04-4792-849e-f08e07f97bdb)
 ![image](https://github.com/Loknaath-sec/FindMaximum/assets/145742558/318e8058-4cb0-48fe-b54d-d174aa449d90)
 
+## Name: P. LOKNAATH
+## REgister Number : 212223240080
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
