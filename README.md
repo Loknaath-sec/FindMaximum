@@ -1,4 +1,4 @@
-# Find the maximum of a list of numbers
+# Exp-3a - Find the maximum of a list of numbers
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
@@ -11,21 +11,25 @@ To write a program to find the maximum of a list of numbers.
 ## Program:
 
 i)	# To find the maximum of marks using the list method sort.
-```Python
+```
+#Program to mark the maximum of marks using the list method sort
+#Developed by: P.LOKNAATH
+#RegisterNumber: 23004546
 
-
-
+def max_marks(marks):
+    marks.sort()
+    return marks[-1]
 ```
 
 ii)	# To find the maximum marks using the list method max().
-```Python
+```
 
 
 
 ```
 
 iii) # To find the maximum marks without using builtin functions.
-```Python
+```
 
 
 
